@@ -1,4 +1,7 @@
 company = "pj"
 prefix = "prefix"
-location = "uksouth"
+locations = {
+  uk = "uksouth"
+  us = "eastus"
+}
 workload = "blarr"
